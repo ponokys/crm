@@ -1,4 +1,4 @@
-# CRM Made By [Anthony Gonzalez](https://github.com/boilercoding/ "Anthony Gonzalez Github")
+# CRM
 
 [Crm](https://elixir-phoenix-crm.herokuapp.com/ "Crm") contact manager system made with elixir/phoenix and [Drab](https://github.com/grych/drab "Drab") to handle the browser user interface.
 
@@ -22,13 +22,17 @@ You are encouraged to create an account, but if you want to get a feel of Crm fi
 
 ## Main Features
 
-1. [Log in required to view content](#log-in-required "Log In Required")
-1. [Edit Account](#Edit-Account "Edit Account")
-1. [Contacts](#contacts "Contacts")
-1. [Notes](#notes "Notes")
-1. [Pagination](#pagination "Pagination")
-1. [My Groups](#my-groups "My Groups")
-1. [Uploads](#uploads "Uploads")
+- [CRM](#crm)
+    - [_See Crm on Heroku here_](#see-crm-on-heroku-here)
+  - [Main Features](#main-features)
+  - [Details of Main Features](#details-of-main-features)
+      - [Log In Required](#log-in-required)
+      - [Edit Account](#edit-account)
+      - [Contacts](#contacts)
+      - [Notes](#notes)
+      - [Pagination](#pagination)
+      - [My groups](#my-groups)
+      - [Uploads](#uploads)
 
 ## Details of Main Features
 
